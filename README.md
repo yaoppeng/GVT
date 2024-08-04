@@ -1,3 +1,3 @@
 # GVT
 
-Pytorch implementation of the ACM MM paper ``Group Vision Transformer''
+Pytorch implementation of the ACM MM paper "Group Vision Transformer"
